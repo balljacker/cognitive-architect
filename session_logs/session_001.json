@@ -1,1 +1,24 @@
+{
+  "learner_name": "Hunter",
+  "last_session": "Session 1",
+  "performance": {
+    "session_type": "Foundational Onboarding",
+    "domains_touched": ["Microbial Evolution", "Applied Reasoning"],
+    "concepts_covered": ["Mutation", "Error Threshold", "Lethal Mutagenesis", "Selection"],
+    "cognitive_skills": ["Abstraction", "Systems Thinking", "Hypothetical Reasoning", "Early Domain Synthesis"],
+    "achievements_unlocked": ["Microbial Evolution Foundations (Level 0.5)"],
+    "profile_tags": [
+      "Strong abstraction emergence",
+      "Excellent responsiveness to scaffolding",
+      "Ready for modular domain layering",
+      "High adaptive capacity",
+      "High engagement",
+      "Developing systems thinking"
+    ],
+    "xp_awarded": 45,
+    "cognitive_momentum_score": "Baseline established",
+    "relative_fluidity_index": "Good early adaptability"
+  },
+  "notes": "Hunter demonstrates strong intuitive reasoning, excellent pattern recognition instincts, and strong early-stage systems thinking capabilities. High engagement level; ready for scaffolded domain expansion."
+}
 
